@@ -1,0 +1,44 @@
+/* Move block container higher */
+div.block-container.css-18e3th9.egzxvld2 {
+    margin-top: -5em;
+  }
+  
+  /* Adjustments for the logo image*/
+  
+  img {
+    display: block;
+  }
+  
+  /* Centering text in each gray box */
+  div.css-173o872.e1f1d6gn0 {
+    text-align: center;
+  }
+  div.css-ep52ik.e1f1d6gn0 {
+    text-align: center;
+  }
+
+  
+  /* Row 1 */
+  /* First box */
+  div.css-1v0mbdj.e115fcil1 {
+    background-color: #EEEEEE;
+    border-radius: 5px;
+  }
+  /* 2nd and 3rd boxes */
+  div.css-1yycg8b.e1f1d6gn1 {
+      background-color: #EEEEEE;
+      padding: 3% 3% 3% 3%;
+      border-radius: 5px;
+  }
+  
+  /* Row 2 */
+  div.css-12w0qpk.e1f1d6gn1 {
+      background-color: #DCDCDC;
+      padding: 3% 3% 3% 3%;
+      border-radius: 5px;
+  }
+  div.css-1l269bu.e1f1d6gn1 {
+    background-color: #DCDCDC;
+    padding: 3% 3% 3% 3%;
+    border-radius: 5px;
+}

@@ -1,0 +1,3250 @@
+[
+    {
+        "average_latency(secs)": 0.6957598333333332,
+        "date/time": "2023-08-21T13:54:09.598239",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.234269,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.164938,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.192377,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 3.324242,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.124959,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.133774,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.14260366666666666,
+        "date/time": "2023-08-21T14:14:09.015763",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.240593,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.127539,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.121215,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.12007,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.123748,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.122457,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.13561333333333334,
+        "date/time": "2023-08-21T14:14:22.614169",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.113118,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.114802,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.150274,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.207216,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.115277,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.112993,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.1259365,
+        "date/time": "2023-08-21T14:14:41.616591",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.129037,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.177391,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.110651,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.111186,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.112375,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.114979,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11941116666666667,
+        "date/time": "2023-08-21T14:14:41.874098",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.094786,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.095206,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.101121,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.093137,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.23222,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.099997,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.13609916666666666,
+        "date/time": "2023-08-21T14:17:02.666078",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.174828,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.123274,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.142379,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.123999,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.121989,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.130126,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11870233333333331,
+        "date/time": "2023-08-21T14:17:09.541155",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.110572,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.141646,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.126091,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.107487,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.115578,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.11084,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09407966666666666,
+        "date/time": "2023-08-21T14:17:09.693231",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.092136,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.093994,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.094913,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.09194,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.093432,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.098063,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.10105933333333333,
+        "date/time": "2023-08-21T14:17:10.339590",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.094987,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.094929,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.089849,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.134086,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.09531,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.097195,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11349416666666667,
+        "date/time": "2023-08-21T14:17:16.101859",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.111527,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.11384,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.110089,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.110707,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.114619,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.120183,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.1035525,
+        "date/time": "2023-08-21T14:17:16.342283",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.147165,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.094079,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.091832,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.093444,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.095299,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.099496,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.10294283333333333,
+        "date/time": "2023-08-21T14:17:17.003638",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.093998,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.096382,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.139788,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.093531,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.096297,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.097661,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.13315716666666666,
+        "date/time": "2023-08-21T14:18:08.400334",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.144142,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.123385,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.149007,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.125115,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.129086,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.128208,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.19444283333333331,
+        "date/time": "2023-08-21T14:18:13.182348",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.112329,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.141455,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.29041,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.243037,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.213539,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.165887,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.12271866666666666,
+        "date/time": "2023-08-21T14:18:21.156091",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.118484,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.113368,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.10985,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.110965,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.111615,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.17203,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.10887133333333333,
+        "date/time": "2023-08-21T14:18:25.853858",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.09614,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.11251,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.110391,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.110696,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.11153,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.111961,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09746049999999999,
+        "date/time": "2023-08-21T14:18:28.606281",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.113042,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.0951,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.091288,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.094868,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.094913,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.095552,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09431166666666667,
+        "date/time": "2023-08-21T14:18:28.897514",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.093607,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.096136,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.093369,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.091583,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.094143,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.097032,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.108803,
+        "date/time": "2023-08-21T14:18:29.589307",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.093942,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.12177,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.138481,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.092494,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.108426,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.097705,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.14002166666666668,
+        "date/time": "2023-08-21T14:18:34.006522",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.111277,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.208381,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.107049,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.110338,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.18886,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.114225,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.14544333333333334,
+        "date/time": "2023-08-21T14:18:50.477563",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.097034,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.096383,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.092145,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.159698,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.237862,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.189538,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.3685386666666666,
+        "date/time": "2023-08-21T14:18:51.131444",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.244608,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.112163,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.264208,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 1.204423,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.201076,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.184754,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11095916666666668,
+        "date/time": "2023-08-21T14:19:03.162162",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.108789,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.113349,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.107961,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.110463,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.112639,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.112554,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11214783333333332,
+        "date/time": "2023-08-21T14:19:03.824358",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.197877,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.100025,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.091873,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.093806,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.093349,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.095957,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.15613183333333333,
+        "date/time": "2023-08-21T14:19:16.112821",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.124564,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.22599,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.108827,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.240784,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.115902,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.120724,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09757300000000001,
+        "date/time": "2023-08-21T14:19:16.429711",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.098017,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.09482,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.093232,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.105809,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.097393,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.096167,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.1375905,
+        "date/time": "2023-08-21T14:28:54.373414",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.202585,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.126208,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.122546,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.122555,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.127078,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.124571,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.1316955,
+        "date/time": "2023-08-21T14:30:48.425717",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.165484,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.125478,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.121634,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.122922,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.126632,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.128023,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.30947933333333333,
+        "date/time": "2023-08-21T14:33:56.733409",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.147277,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.124252,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 1.129945,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.122341,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.206908,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.126153,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.1371045,
+        "date/time": "2023-08-21T14:38:39.012256",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.179235,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.126089,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.139906,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.122656,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.126885,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.127856,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.12118316666666666,
+        "date/time": "2023-08-21T14:38:42.525101",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.095885,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.096939,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.094062,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.247104,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.096168,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.096941,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.15340883333333333,
+        "date/time": "2023-08-21T14:38:51.946534",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.114488,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.345713,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.111857,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.109433,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.115439,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.123523,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.13203133333333336,
+        "date/time": "2023-08-21T14:38:55.328739",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.141791,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.126564,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.090265,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.192194,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.09655,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.144824,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11228899999999999,
+        "date/time": "2023-08-21T14:38:57.131738",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.114053,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.112088,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.110101,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.110713,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.112158,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.114621,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.10535,
+        "date/time": "2023-08-21T14:38:57.383996",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.09286,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.093754,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.141255,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.093045,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.111112,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.100074,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.13086016666666667,
+        "date/time": "2023-08-21T14:38:58.210923",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.099608,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.096127,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.130895,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.22758,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.136572,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.094379,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11342583333333334,
+        "date/time": "2023-08-21T14:39:03.214236",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.112482,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.118217,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.113157,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.110578,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.111439,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.114682,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11035550000000001,
+        "date/time": "2023-08-21T14:39:03.491174",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.094776,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.139097,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.093701,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.092869,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.133024,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.108666,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.10560716666666665,
+        "date/time": "2023-08-21T14:39:04.204303",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.096694,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.095121,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.099676,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.095335,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.095687,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.15113,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09388466666666667,
+        "date/time": "2023-08-21T14:39:04.529494",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.095128,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.095863,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.093263,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.09208,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.090626,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.096348,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.1297128333333333,
+        "date/time": "2023-08-21T14:39:08.128066",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.116663,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.118494,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.112508,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.196185,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.116343,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.118084,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.1000205,
+        "date/time": "2023-08-21T14:39:09.752373",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.115244,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.098334,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.094087,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.095793,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.09486,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.101805,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09403883333333334,
+        "date/time": "2023-08-21T14:39:10.796469",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.09374,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.094656,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.090709,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.093176,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.094295,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.097657,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09495066666666667,
+        "date/time": "2023-08-21T14:39:11.233269",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.095678,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.092471,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.094336,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.090163,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.097303,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.099753,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.334854,
+        "date/time": "2023-08-21T14:39:12.968325",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.095962,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.093454,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.352659,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.216441,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 1.135754,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.114854,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11618,
+        "date/time": "2023-08-21T14:39:13.714466",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.111803,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.113036,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.14873,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.111274,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.114285,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.097952,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.10379016666666667,
+        "date/time": "2023-08-21T14:39:13.911973",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.132557,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.096175,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.097107,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.094299,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.094514,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.108089,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.10133933333333334,
+        "date/time": "2023-08-21T14:39:14.222071",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.0934,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.094963,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.089526,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.095631,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.136831,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.097685,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.10218699999999999,
+        "date/time": "2023-08-21T14:39:14.877096",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.096048,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.094134,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.092079,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.129988,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.101965,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.098908,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.10224166666666666,
+        "date/time": "2023-08-21T14:39:15.840239",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.140181,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.098825,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.0913,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.091198,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.095366,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.09658,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09592216666666668,
+        "date/time": "2023-08-21T14:39:16.800891",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.096355,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.101106,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.093131,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.093394,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.094262,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.097285,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09437633333333333,
+        "date/time": "2023-08-21T14:39:17.117090",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.093167,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.093354,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.092627,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.092446,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.094673,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.099991,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11362716666666667,
+        "date/time": "2023-08-21T14:39:20.830642",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.111816,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.116375,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.112128,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.111677,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.113921,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.115846,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09414916666666666,
+        "date/time": "2023-08-21T14:39:22.338404",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.092705,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.095455,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.090946,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.093931,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.094544,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.097314,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11248416666666666,
+        "date/time": "2023-08-21T14:39:23.492927",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.095308,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.098564,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.142738,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.091789,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.147019,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.099487,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09817583333333334,
+        "date/time": "2023-08-21T14:39:23.835100",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.095937,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.098103,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.11146,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.093884,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.094356,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.095315,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.12235933333333332,
+        "date/time": "2023-08-21T14:39:26.470508",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.110947,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.114258,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.108498,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.117135,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.168647,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.114671,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09404633333333333,
+        "date/time": "2023-08-21T14:39:26.498033",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.091911,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.092657,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.097257,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.091954,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.092671,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.097828,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09917033333333335,
+        "date/time": "2023-08-21T14:39:27.481133",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.093128,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.094997,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.089708,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.121786,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.096393,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.09901,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11116150000000001,
+        "date/time": "2023-08-21T14:39:28.524015",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.091939,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.095071,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.193932,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.094589,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.095626,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.095812,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09927083333333335,
+        "date/time": "2023-08-21T14:39:29.412182",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.094707,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.093822,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.09193,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.092927,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.095451,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.126788,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.28542666666666666,
+        "date/time": "2023-08-21T14:39:30.851962",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.108457,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.109274,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 1.173037,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.112635,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.11217,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.096987,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.1146,
+        "date/time": "2023-08-21T14:39:33.539206",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.129656,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.115892,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.109974,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.114987,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.104944,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.112147,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.112615,
+        "date/time": "2023-08-21T14:39:35.036570",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.097569,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.094954,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.090928,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.199115,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.094803,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.098321,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.10219966666666667,
+        "date/time": "2023-08-21T14:39:36.127900",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.092593,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.101378,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.093023,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.112225,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.116147,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.097832,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.113852,
+        "date/time": "2023-08-21T14:39:36.539993",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.097321,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.096508,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.096033,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.198968,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.097189,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.097093,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.13044133333333333,
+        "date/time": "2023-08-21T14:44:12.482335",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.163028,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.124553,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.123751,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.121055,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.124611,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.12565,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.2644395,
+        "date/time": "2023-08-21T14:44:26.092502",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.791327,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.228157,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.228246,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.111993,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.112161,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.114753,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.13253166666666666,
+        "date/time": "2023-08-21T14:44:38.910283",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.116633,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.223819,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.112947,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.112149,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.115298,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.114344,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.13325633333333334,
+        "date/time": "2023-08-21T14:44:51.732219",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.113382,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.112055,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.127725,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.112497,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.219699,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.11418,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.13118883333333334,
+        "date/time": "2023-08-21T14:45:04.533364",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.112742,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.113404,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.110409,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.110394,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.225227,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.114957,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09822399999999999,
+        "date/time": "2023-08-21T14:45:07.641681",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.103086,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.099496,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.095555,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.095357,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.096687,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.099163,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.13647116666666667,
+        "date/time": "2023-08-21T14:45:17.375548",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.116737,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.17968,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.176696,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.114256,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.114873,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.116585,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.112221,
+        "date/time": "2023-08-21T14:45:30.071674",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.11258,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.113588,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.110484,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.110369,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.112112,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.114193,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.14100349999999998,
+        "date/time": "2023-08-21T14:49:59.949088",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.166521,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.126665,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.125042,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.173414,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.127581,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.126798,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.13542983333333333,
+        "date/time": "2023-08-21T14:55:13.405008",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.16649,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.122723,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.139961,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.123663,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.132904,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.126838,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.1229415,
+        "date/time": "2023-08-21T14:55:19.738339",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.119544,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.11419,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.157544,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.11286,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.11917,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.114341,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.12063533333333332,
+        "date/time": "2023-08-21T14:55:26.151806",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.114982,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.157768,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.10995,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.114176,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.113389,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.113547,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11743366666666666,
+        "date/time": "2023-08-21T14:55:38.879861",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.119227,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.114341,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.111187,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.112171,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.131683,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.115993,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.14678866666666665,
+        "date/time": "2023-08-21T15:02:44.757626",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.16715,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.21874,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.122024,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.119713,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.128547,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.124558,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.12894083333333334,
+        "date/time": "2023-08-21T15:03:39.664285",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.123466,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.116558,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.157589,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.112649,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.117805,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.145578,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.13959200000000002,
+        "date/time": "2023-08-21T15:04:24.291785",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.168243,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.161115,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.133044,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.12072,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.124823,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.129607,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.12253399999999999,
+        "date/time": "2023-08-21T15:04:35.414430",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.173187,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.111974,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.11139,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.111653,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.112725,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.114275,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.13182833333333333,
+        "date/time": "2023-08-21T15:04:44.477825",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.218342,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.121039,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.109225,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.111997,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.117196,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.113171,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.10242899999999999,
+        "date/time": "2023-08-21T15:04:44.939436",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.094607,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.102203,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.093113,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.095443,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.094891,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0.134317,
+                "pass/fail": "PASS"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.08008133333333334,
+        "date/time": "2023-08-21T15:10:52.287032",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.126,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.116024,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0,
+                "message": "400 Client Error: Bad Request for url: http://sem-riskoffailure1.40058902.qpc.hal.davecutting.uk/?engagement_score=33333&cut_off_score=50",
+                "pass/fail": "UNAVAILABLE"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.11341,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.125054,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0,
+                "message": "HTTPConnectionPool(host='sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk', port=80): Max retries exceeded with url: /?item_1=Lecture%20sessions&attendance_1=5&item_2=Lab%20sessions&attendance_2=10&item_3=Support%20sessions&attendance_3=15&item_4=Canvas%20activities&attendance_4=20&total_hours_1=33&total_hours_2=22&total_hours_3=44&total_hours_4=55 (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7fac1a764460>: Failed to resolve 'sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk' ([Errno -2] Name or service not known)\"))",
+                "pass/fail": "UNAVAILABLE"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09769316666666666,
+        "date/time": "2023-08-21T15:10:58.546502",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.138045,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.21626,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0,
+                "message": "400 Client Error: Bad Request for url: http://sem-riskoffailure1.40058902.qpc.hal.davecutting.uk/?engagement_score=33333&cut_off_score=50",
+                "pass/fail": "UNAVAILABLE"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.116288,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.115566,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0,
+                "message": "HTTPConnectionPool(host='sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk', port=80): Max retries exceeded with url: /?item_1=Lecture%20sessions&attendance_1=5&item_2=Lab%20sessions&attendance_2=10&item_3=Support%20sessions&attendance_3=15&item_4=Canvas%20activities&attendance_4=20&total_hours_1=33&total_hours_2=22&total_hours_3=44&total_hours_4=55 (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7fac1a7642e0>: Failed to resolve 'sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk' ([Errno -2] Name or service not known)\"))",
+                "pass/fail": "UNAVAILABLE"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.10146266666666666,
+        "date/time": "2023-08-21T15:11:13.438130",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.168555,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.217139,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0,
+                "message": "400 Client Error: Bad Request for url: http://sem-riskoffailure1.40058902.qpc.hal.davecutting.uk/?engagement_score=33333&cut_off_score=50",
+                "pass/fail": "UNAVAILABLE"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.110554,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.112528,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0,
+                "message": "HTTPConnectionPool(host='sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk', port=80): Max retries exceeded with url: /?item_1=Lecture%20sessions&attendance_1=5&item_2=Lab%20sessions&attendance_2=10&item_3=Support%20sessions&attendance_3=15&item_4=Canvas%20activities&attendance_4=20&total_hours_1=33&total_hours_2=22&total_hours_3=44&total_hours_4=55 (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7fac19d87250>: Failed to resolve 'sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk' ([Errno -2] Name or service not known)\"))",
+                "pass/fail": "UNAVAILABLE"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.10334766666666667,
+        "date/time": "2023-08-21T15:20:49.123530",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.123374,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.132245,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.118543,
+                "pass/fail": "FAIL"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.1213,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.124624,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0,
+                "message": "HTTPConnectionPool(host='sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk', port=80): Max retries exceeded with url: /?item_1=Lecture%20sessions&attendance_1=5&item_2=Lab%20sessions&attendance_2=10&item_3=Support%20sessions&attendance_3=15&item_4=Canvas%20activities&attendance_4=20&total_hours_1=33&total_hours_2=22&total_hours_3=44&total_hours_4=55 (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7f1e450f0ee0>: Failed to resolve 'sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk' ([Errno -2] Name or service not known)\"))",
+                "pass/fail": "UNAVAILABLE"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09953983333333334,
+        "date/time": "2023-08-21T15:21:10.200018",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.124028,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.116564,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.113106,
+                "pass/fail": "FAIL"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.127533,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.116008,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0,
+                "message": "HTTPConnectionPool(host='sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk', port=80): Max retries exceeded with url: /?item_1=Lecture%20sessions&attendance_1=5&item_2=Lab%20sessions&attendance_2=10&item_3=Support%20sessions&attendance_3=15&item_4=Canvas%20activities&attendance_4=20&total_hours_1=33&total_hours_2=22&total_hours_3=44&total_hours_4=55 (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7f1e446d06d0>: Failed to resolve 'sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk' ([Errno -2] Name or service not known)\"))",
+                "pass/fail": "UNAVAILABLE"
+            }
+        ]
+    }
+]
