@@ -99,6 +99,23 @@ def construct_url(endpoint_key, dummy_data):
         url = endpoints["getRisk"] + "?engagement_score=" + str(dummy_data["engagement_score"]) + "&cut_off_score=" + str(dummy_data["cut_off_score"])
     return url
 
+# SendGrid method for sending email alerts:
+def sendEmail(subject, text):
+    
+    message = Mail(from_email='aidanmcgauley@gmail.com',
+                    to_emails='aidanmcgauley@gmail.com',
+                    subject=subject,
+                    plain_text_content=text,
+                    html_content = text.replace('\n', '<br>') # My gmail was displaying body as 1 line
+                    )
+    try:
+        sg = SendGridAPIClient("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")
+        response = sg.send(message)
+        #print(response.status_code)    
+        #print(response.body)
+        #print(response.headers)
+    except Exception as e:
+        print(e.message)
 
 def test_endpoint(endpoint_key, dummy_data, expected):
     working = True
@@ -156,24 +173,6 @@ def test_endpoint(endpoint_key, dummy_data, expected):
             "message": str(e)
         }
 
-# SendGrid method for sending email alerts:
-def sendEmail(subject, text):
-    
-    message = Mail(from_email='aidanmcgauley@gmail.com',
-                    to_emails='aidanmcgauley@gmail.com',
-                    subject=subject,
-                    plain_text_content=text,
-                    html_content = text.replace('\n', '<br>') # My gmail was displaying body as 1 line
-                    )
-    try:
-        #sg = SendGridAPIClient(os.getenv("SENDGRID_API_KEY"))
-        sg = SendGridAPIClient("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")
-        response = sg.send(message)
-        #print(response.status_code)    
-        #print(response.body)
-        #print(response.headers)
-    except Exception as e:
-        print(e.message)
 
 def monitor():
     results = []
@@ -237,7 +236,8 @@ if not any(thread.name == 'monitor_thread' for thread in threading.enumerate()):
 
 
 
-# Streamlit dashboard code
+# ---------- Streamlit dashboard code---------------
+
 st.set_page_config(page_title=None, page_icon=None, layout="wide", initial_sidebar_state="auto", menu_items=None)
 
 with open('style.css') as f:

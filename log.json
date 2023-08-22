@@ -3246,5 +3246,153 @@
                 "pass/fail": "UNAVAILABLE"
             }
         ]
+    },
+    {
+        "average_latency(secs)": 0.11485983333333334,
+        "date/time": "2023-08-22T15:06:59.127138",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.16984,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.133984,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.126839,
+                "pass/fail": "FAIL"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.128507,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.129989,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0,
+                "message": "HTTPConnectionPool(host='sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk', port=80): Max retries exceeded with url: /?item_1=Lecture%20sessions&attendance_1=5&item_2=Lab%20sessions&attendance_2=10&item_3=Support%20sessions&attendance_3=15&item_4=Canvas%20activities&attendance_4=20&total_hours_1=33&total_hours_2=22&total_hours_3=44&total_hours_4=55 (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7f377cae4c10>: Failed to resolve 'sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk' ([Errno -2] Name or service not known)\"))",
+                "pass/fail": "UNAVAILABLE"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.09959099999999999,
+        "date/time": "2023-08-22T15:07:10.753857",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.130954,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.118277,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.115965,
+                "pass/fail": "FAIL"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.117224,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.115126,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0,
+                "message": "HTTPConnectionPool(host='sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk', port=80): Max retries exceeded with url: /?item_1=Lecture%20sessions&attendance_1=5&item_2=Lab%20sessions&attendance_2=10&item_3=Support%20sessions&attendance_3=15&item_4=Canvas%20activities&attendance_4=20&total_hours_1=33&total_hours_2=22&total_hours_3=44&total_hours_4=55 (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7f377c0bf7f0>: Failed to resolve 'sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk' ([Errno -2] Name or service not known)\"))",
+                "pass/fail": "UNAVAILABLE"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.135155,
+        "date/time": "2023-08-22T15:07:20.431943",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.127291,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.183015,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.247678,
+                "pass/fail": "FAIL"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.117178,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.135768,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0,
+                "message": "HTTPConnectionPool(host='sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk', port=80): Max retries exceeded with url: /?item_1=Lecture%20sessions&attendance_1=5&item_2=Lab%20sessions&attendance_2=10&item_3=Support%20sessions&attendance_3=15&item_4=Canvas%20activities&attendance_4=20&total_hours_1=33&total_hours_2=22&total_hours_3=44&total_hours_4=55 (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7f377c0bdb70>: Failed to resolve 'sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk' ([Errno -2] Name or service not known)\"))",
+                "pass/fail": "UNAVAILABLE"
+            }
+        ]
+    },
+    {
+        "average_latency(secs)": 0.11309000000000001,
+        "date/time": "2023-08-22T15:07:41.590001",
+        "tests": [
+            {
+                "function": "getEngagementScore",
+                "latency(secs)": 0.137527,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getMaxMin",
+                "latency(secs)": 0.117871,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getRisk",
+                "latency(secs)": 0.178298,
+                "pass/fail": "FAIL"
+            },
+            {
+                "function": "getSortedAttendance",
+                "latency(secs)": 0.123332,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getSortedByPercentage",
+                "latency(secs)": 0.121512,
+                "pass/fail": "PASS"
+            },
+            {
+                "function": "getTotal",
+                "latency(secs)": 0,
+                "message": "HTTPConnectionPool(host='sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk', port=80): Max retries exceeded with url: /?item_1=Lecture%20sessions&attendance_1=5&item_2=Lab%20sessions&attendance_2=10&item_3=Support%20sessions&attendance_3=15&item_4=Canvas%20activities&attendance_4=20&total_hours_1=33&total_hours_2=22&total_hours_3=44&total_hours_4=55 (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7f377c0bfcd0>: Failed to resolve 'sem-totalhours1.40058902.qpc.hal.davecutting.ukkkk' ([Errno -2] Name or service not known)\"))",
+                "pass/fail": "UNAVAILABLE"
+            }
+        ]
     }
 ]
