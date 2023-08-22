@@ -109,7 +109,7 @@ def test_endpoint(endpoint_key, dummy_data, expected):
 
         # Make request
         response = requests.get(request_url)
-        response.raise_for_status() # Raise an exception for HTTP errors
+        response.raise_for_status()
 
         # Check if the response is a valid JSON
         try:
@@ -169,20 +169,20 @@ def sendEmail(subject, text):
         #sg = SendGridAPIClient(os.getenv("SENDGRID_API_KEY"))
         sg = SendGridAPIClient("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")
         response = sg.send(message)
-        #print(response.status_code)
+        #print(response.status_code)    
         #print(response.body)
         #print(response.headers)
     except Exception as e:
         print(e.message)
 
 def monitor():
-    
     results = []
 
     # Setup for average latency
     total_latency = 0.0
     endpoint_count = len(endpoints)
 
+    # Loop through each endpoint and call test_endpoint
     for endpoint_key in endpoints:
         test_result = test_endpoint(endpoint_key, dummy_data, expected_output[endpoint_key])
         total_latency += test_result["latency(secs)"]
@@ -211,6 +211,7 @@ def monitor():
 
     existing_data.append(test_obj)
 
+
     # Get the current script's directory
     script_dir = os.path.dirname(os.path.abspath(__file__))
     # Construct the absolute path to log.json
@@ -218,7 +219,6 @@ def monitor():
     # Write updated data
     with open(log_file_path, 'w') as outfile:
         json.dump(existing_data, outfile, indent=4, sort_keys=True)
-
 
     return "Success"
     
@@ -228,7 +228,7 @@ def monitor():
 def run_monitor_auto():
     while True:
         monitor()
-        time.sleep(20)
+        time.sleep(20)      # Change back to 60*20 to run every 20 mins 
 
 # Code was executing every split second, so this check tries to avoid multiple threads
 if not any(thread.name == 'monitor_thread' for thread in threading.enumerate()):
