@@ -29,7 +29,7 @@ dummy_data = {
     "total_hours_4": "55",
 
     "cut_off_score": "50",
-    "engagement_score": "34"  ########## CHANGE BACK TO 33 TO MAKE IT PASS
+    "engagement_score": "33"  ########## CHANGE BACK TO 33 TO MAKE IT PASS
 }
 
 # Expected output for each function
