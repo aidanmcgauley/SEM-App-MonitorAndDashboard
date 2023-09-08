@@ -29,7 +29,7 @@ dummy_data = {
     "total_hours_4": "55",
 
     "cut_off_score": "50",
-    "engagement_score": "33"  ########## CHANGE BACK TO 33 TO MAKE IT PASS
+    "engagement_score": "34"  ########## CHANGE BACK TO 33 TO MAKE IT PASS
 }
 
 # Expected output for each function
@@ -81,7 +81,7 @@ endpoints = {
     "getRisk": "http://sem-riskoffailure1.40058902.qpc.hal.davecutting.uk/",
     "getSortedAttendance": "http://sem-sort1.40058902.qpc.hal.davecutting.uk/",
     "getSortedByPercentage": "http://sem-sortbypercentage.40058902.qpc.hal.davecutting.uk/",
-    "getTotal": "http://sem-totalhours1.40058902.qpc.hal.davecutting.ukKKK/" ####### DELETE EXTRA LETTERS
+    "getTotal": "http://sem-totalhours1.40058902.qpc.hal.davecutting.ukUK/" ####### DELETE EXTRA LETTERS
 }
 
 def construct_url(endpoint_key, dummy_data):
@@ -227,7 +227,7 @@ def monitor():
 def run_monitor_auto():
     while True:
         monitor()
-        time.sleep(20)      # Change back to 60*20 to run every 20 mins 
+        time.sleep(60 * 20)      # Change back to 60*20 to run every 20 mins 
 
 # Code was executing every split second, so this check tries to avoid multiple threads
 if not any(thread.name == 'monitor_thread' for thread in threading.enumerate()):
